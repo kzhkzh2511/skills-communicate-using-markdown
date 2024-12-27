@@ -14,3 +14,7 @@ var myVar = "Hello, world!";
 ```python
 a+b=c
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
